@@ -4,6 +4,11 @@
 
 一款简洁美观的专注倒计时工具，支持自定义倒计时时长，提供开始、暂停、重置操作，并通过本地存储记录每日完成的倒计时次数。
 
+
+![1775356417786](image/README/1775356417786.png)
+[Visit old pages](https://app-aks8gtsphrsx.appmiaoda.com/)
+
+
 ## 功能特性
 
 - **自定义倒计时** - 支持设置小时、分钟、秒，默认 1 小时
@@ -31,6 +36,8 @@
 ### 安装依赖
 
 ```bash
+git clone https://github.com/SantaChains/focus-timer
+cd focus-timer
 pnpm install
 ```
 
@@ -69,7 +76,7 @@ pnpm lint
 
 ## 开源协议
 
-MIT
+[MIT License](LICENSE)
 
 ---
 
